@@ -902,7 +902,7 @@ namespace XrmToolBox.New
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "NewForm";
             this.Opacity = 0D;
-            this.Text = "XrmToolBox for Microsoft Dynamics 365 for CE and Power Apps Common Data Service";
+            this.Text = "XrmToolBox for Microsoft Dataverse and Microsoft Dynamics 365";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.NewForm_FormClosing);
             this.Load += new System.EventHandler(this.NewForm_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.NewForm_KeyDown);
